@@ -1,0 +1,1 @@
+This is a course by Hitesh Choudhary on "React with Stripe"(https://www.youtube.com/watch?v=lbEFSP1WAv0)
